@@ -21,7 +21,7 @@ I am a **Computer Science** student and major in Data science at Monash Universi
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:brian.huynh125a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/nguyen-huynh-8198b3282/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/nguyen-huynh512/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </div>
 
 <br>
